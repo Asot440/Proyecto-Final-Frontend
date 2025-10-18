@@ -1,0 +1,210 @@
+h1 span{
+color: #037BC0;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+
+h2{
+    text-align: center;
+}
+
+h4{
+    font-size: 25px;
+}
+
+.productos{
+    margin: 0% 10%;
+}
+
+.row-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 15px 0%;
+}
+
+.row-1 img{
+    width: 100%;
+    height: 400px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.prod-1{
+    background-color: dodgerblue;
+    color: white;
+    padding: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 340px;
+    width: 500px;
+}
+
+.prod-1 h3{
+    text-align: center;
+    font-size: 200%;
+    margin: 1%;
+    padding-top: 5%;
+}
+
+.prod-1 p{
+    text-align: center;
+    font-size: 100%;
+    margin-top: 30px;
+}
+
+.prod-1 .precio{
+    font-size: 30px;
+}
+
+.agregar{
+    display: flex;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    padding-top: 10px;
+    padding-left: 35px;
+    font-size: 100%;
+    margin: 10% 25%;
+    height: 40px;
+    width: 200px;
+
+}
+
+.box-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.row-2{
+    display: flex;
+    flex-direction: column;
+}
+
+.row-2 img{
+    width: 700px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.prod-2{
+    background-color: dodgerblue;
+    color: white;
+    width: 700px;
+    text-align: center;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.precio-2col{
+    font-size: 25px;
+}
+
+.agregar-2col{
+    display: flex;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    padding-top: 10px;
+    padding-left: 35px;
+    font-size: 100%;
+    margin: 15px 250px;
+    height: 40px;
+    width: 200px;
+}
+
+.box-3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.row-3{
+    display: flex;
+    flex-direction: column;
+}
+
+.prod-4{
+    background-color: dodgerblue;
+    color: white;
+    width: 450px;
+    text-align: center;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.precio-3col{
+    font-size: 25px;
+}
+
+.agregar-3col{
+    background-color: yellowgreen;
+    border: none;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding: 8px 40px;
+    border-radius: 10px;
+}
+
+.cats{
+    margin: 0% 10%;
+}
+
+.row-3 img{
+    width: 450px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.titulo-cat{
+    margin: 70px 0px 40px 0px;
+}
+
+.box-cat{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cat{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.cat img{
+    width: 450px;
+    border-radius: 30px;
+}
+
+.box-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+
+.footer-col{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    font-size: 20px;
+}
