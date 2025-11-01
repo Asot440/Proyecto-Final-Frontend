@@ -14,52 +14,10 @@ h2{
     text-align: center;
 }
 
-.prod-1{
+.producto{
     background-color: dodgerblue;
     color: white;
     text-align: center;
-}
-
-.box-2{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-
-}
-
-.prod-2{
-    background-color: dodgerblue;
-    color: white;
-    text-align: center;
-
-}
-
-.precio-2col{
-    font-size: 25px;
-}
-
-.agregar-2col{
-    display: flex;
-    background-color: yellowgreen;
-    color: white;
-    border-radius: 15px;
-    border: none;
-}
-
-.prod-4{
-    background-color: dodgerblue;
-    color: white;
-    text-align: center;
-}
-
-.precio-3col{
-    font-size: 25px;
-}
-
-.agregar-3col{
-    background-color: yellowgreen;
-    border: none;
-    color: white;
 }
 
 .cats{
